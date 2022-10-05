@@ -17,6 +17,7 @@ All commands are run from the root of the project, from a terminal:
 | `docker compose -f ./appwrite/docker-compose.yml up`   | Start Appwrite                                   |
 | `docker compose -f ./appwrite/docker-compose.yml stop` | Stop Appwrite                                    |
 | `docker compose -f ./appwrite/docker-compose.yml down` | Remove Appwrite                                  |
+| `yarn appwrite`                                        | Any Appwrite cli command                         |
 
 ## 👀 Want to learn more?
 
