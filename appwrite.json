@@ -1,0 +1,18 @@
+{
+    "projectId": "633da2c39129362ffb95",
+    "projectName": "Appgram",
+    "collections": [
+        {
+            "$id": "633da386848a71325ce2",
+            "$createdAt": "2022-10-05T15:32:22.542+00:00",
+            "$updatedAt": "2022-10-05T15:32:22.542+00:00",
+            "$permissions": [],
+            "databaseId": "633da37a677dbffaf76f",
+            "name": "posts",
+            "enabled": true,
+            "documentSecurity": false,
+            "attributes": [],
+            "indexes": []
+        }
+    ]
+}
