@@ -1,1 +1,9 @@
-<div class="w-96 h-full p-6 bg-white border border-black mt-8">hello</div>
+<div class="w-96 h-full p-6 bg-white border border-black mt-8">
+  <iframe name="dummyframe" id="dummyframe" style="display: none;"></iframe>
+  <form action="signup" method="post" target="dummyframe">
+    <label for="name">Name</label>
+    <input id="name" name="name" minlength="4" maxlength="16" type="text" />
+
+    <button type="submit">Sign Up</button>
+  </form>
+</div>
